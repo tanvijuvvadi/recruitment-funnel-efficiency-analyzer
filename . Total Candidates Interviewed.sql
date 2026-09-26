@@ -1,0 +1,3 @@
+SELECT
+    COUNT(Interview1Date) AS Candidates_Interviewed
+FROM RecruitmentCandidates;
